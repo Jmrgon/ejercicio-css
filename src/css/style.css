@@ -11,3 +11,72 @@
 .imagen-flotante{
     display: flex;
 }
+.list-type-style{
+    list-style-type: none;
+}
+.color-grey{
+    color: grey;
+}
+.color-cyan{
+    color: cyan
+}
+.color-sky{
+    color: skyblue
+}
+.color-fucshia{
+    color: fuchsia
+}
+.color-purple{
+    color: purple;
+}
+.color-greywarm{
+    color: #78716C
+}
+.color-red{
+    color: red
+}
+.color-orange{
+    color: orange;
+}
+.color-pink{
+    color: pink
+}
+.color-violet{
+    color: violet
+}
+.color-amber{
+    color: #F59E0B
+}
+.color-yellow{
+    color: yellow
+}
+.color-lime{
+    color: #84CC16
+}
+.color-rose{
+    color:#F43F5E
+}
+.color-indigo{
+    color:#4F46E5
+}
+.color-green{
+    color: green
+}
+.color-emerald{
+    color: #10B981
+}
+.color-teal{
+    color: #14B8A6
+}
+.color-bluegray{
+    color: #475569
+}
+.color-blue{
+    color: blue
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 16px 32px;
+    justify-items: center;
+}
