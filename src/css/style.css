@@ -1,0 +1,13 @@
+.reducir-tamaño{
+    width: 200px;
+    height: auto;
+}
+.subrayado{
+    background-color: grey;
+}
+.h1sub{
+    text-align: center;
+}
+.imagen-flotante{
+    display: flex;
+}
